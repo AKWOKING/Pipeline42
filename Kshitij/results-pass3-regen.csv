@@ -1,0 +1,71 @@
+record_id,name,company,role,event,event_date,gate_status,rules,why,gate_note,email_body
+DV-01,Asha Morales,Grain and Berry - Missouri City,Director of Franchise Development,Founded,2017,QUEUED,upstream_record_needs_review,'pipeline42' marked the record for 'Grain and Berry - Missouri City' as 'VERIFY'. Finding: Franchise/local purchasing scope and contact route are unverified,,"Hi Asha,
+
+Love what you've built since 2017. As Director of Franchise Development at Grain and Berry - Missouri City, you probably see how much time goes into supplier orders and stock counts.
+
+Quick idea for how Grain and Berry - Missouri City could cut that down. Worth a 10 minute chat next week?
+
+Not relevant? Reply unsubscribe and I won't follow up."
+DV-02,Chris Tocci,La Griglia,Owner / Wine Director,,,SAFE,,,,"Hi Chris,
+
+As Owner / Wine Director at La Griglia, you probably see how much time goes into supplier orders and stock counts.
+
+Quick idea for how La Griglia could cut that down. Worth a 10 minute chat next week?
+
+Not relevant? Reply unsubscribe and I won't follow up."
+DV-03,,Ostioneria 59,,Founded,2011,BLOCKED,upstream_record_blocked,'pipeline42' marked the record for 'Ostioneria 59' as 'FIX'; the draft is built on data the upstream layer said not to use. Finding: Toast/platform enrichment appears attached to the restaurant record,,"Hi there,
+
+Love what you've built since 2011. At Ostioneria 59, you probably see how much time goes into supplier orders and stock counts.
+
+Quick idea for how Ostioneria 59 could cut that down. Worth a 10 minute chat next week?
+
+Not relevant? Reply unsubscribe and I won't follow up."
+DV-04,Julie Ellis,The Chef's Table,Owner,Founded,2001,QUEUED,upstream_record_needs_review,"'pipeline42' marked the record for ""The Chef's Table"" as 'VERIFY'. Finding: Shared owner/contact across two location records; scope is unresolved",,"Hi Julie,
+
+Love what you've built since 2001. As Owner at The Chef's Table, you probably see how much time goes into supplier orders and stock counts.
+
+Quick idea for how The Chef's Table could cut that down. Worth a 10 minute chat next week?
+
+Not relevant? Reply unsubscribe and I won't follow up."
+DV-05,,BunSlut,,,,SAFE,,,,"Hi there,
+
+At BunSlut, you probably see how much time goes into supplier orders and stock counts.
+
+Quick idea for how BunSlut could cut that down. Worth a 10 minute chat next week?
+
+Not relevant? Reply unsubscribe and I won't follow up."
+DV-06,Matthew Stowe,JOEY Uptown,Executive Director of Culinary,Founded,1992,QUEUED,upstream_record_needs_review,'pipeline42' marked the record for 'JOEY Uptown' as 'VERIFY'. Finding: The supplied email is not established as Matthew Stowe's sales route,,"Hi Matthew,
+
+Love what you've built since 1992. As Executive Director of Culinary at JOEY Uptown, you probably see how much time goes into supplier orders and stock counts.
+
+Quick idea for how JOEY Uptown could cut that down. Worth a 10 minute chat next week?
+
+Not relevant? Reply unsubscribe and I won't follow up."
+DV-07,Brian Palko,Lazy Dog Restaurant & Bar,Regional Operations Director,Founded,2003,QUEUED,upstream_record_needs_review,'pipeline42' marked the record for 'Lazy Dog Restaurant & Bar' as 'VERIFY'. Finding: Regional remit and contact route for the Stafford location are unresolved,,"Hi Brian,
+
+Love what you've built since 2003. As Regional Operations Director at Lazy Dog Restaurant & Bar, you probably see how much time goes into supplier orders and stock counts.
+
+Quick idea for how Lazy Dog Restaurant & Bar could cut that down. Worth a 10 minute chat next week?
+
+Not relevant? Reply unsubscribe and I won't follow up."
+DV-08,Afaf Drief,Main Kitchen & 806 Lounge,Director of Human Resources,,,QUEUED,upstream_record_needs_review,'pipeline42' marked the record for 'Main Kitchen & 806 Lounge' as 'VERIFY'. Finding: Marriott parent-level enrichment appears on a local dining-outlet record; purchasing boundary is unclear,,"Hi Afaf,
+
+As Director of Human Resources at Main Kitchen & 806 Lounge, you probably see how much time goes into supplier orders and stock counts.
+
+Quick idea for how Main Kitchen & 806 Lounge could cut that down. Worth a 10 minute chat next week?
+
+Not relevant? Reply unsubscribe and I won't follow up."
+DV-09,Julie Ellis,The Chef's Table River Oaks,Owner,Founded,2001,QUEUED,upstream_record_needs_review,"'pipeline42' marked the record for ""The Chef's Table River Oaks"" as 'VERIFY'. Finding: Shared owner/contact across two location records; scope is unresolved",,"Hi Julie,
+
+Love what you've built since 2001. As Owner at The Chef's Table River Oaks, you probably see how much time goes into supplier orders and stock counts.
+
+Quick idea for how The Chef's Table River Oaks could cut that down. Worth a 10 minute chat next week?
+
+Not relevant? Reply unsubscribe and I won't follow up."
+DV-10,Sean Savage,Chili's Grill & Bar,Facilities Director,,,QUEUED,upstream_record_needs_review,"'pipeline42' marked the record for ""Chili's Grill & Bar"" as 'VERIFY'. Finding: The toll-free contact number may be a general route",,"Hi Sean,
+
+As Facilities Director at Chili's Grill & Bar, you probably see how much time goes into supplier orders and stock counts.
+
+Quick idea for how Chili's Grill & Bar could cut that down. Worth a 10 minute chat next week?
+
+Not relevant? Reply unsubscribe and I won't follow up."
