@@ -85,7 +85,7 @@ Because ordinary U.S. calls are not practical without extra spending, start with
 
 ## Separate workstreams and freeze conditions
 
-- **DataVibe:** one final regenerated-copy test is pending. `Commercial/KSHITIJ_SINGLE_TEST_REQUEST.md` contains the copy/paste instruction. No test result is available yet; no Kshitij message has been sent from this workspace. After that one run is recorded, freeze DataVibe and stop technical iteration.
+- **DataVibe:** the one regenerated-copy test is complete. The result artifact is `Kshitij/results-pass3-regen.csv`; closure and bounded findings are recorded in `Kshitij/EXPERIMENT_CLOSURE.md`. The original single-test request is retained unchanged. Freeze DataVibe: no more technical work on this experiment unless a real customer creates a reason to do it.
 - **Eric/ListForge ground truth:** continue separately and in parallel. It validates record-ground-truth/methodology, not customer demand. Do not wait for it before commercial conversations.
 - **Website:** frozen. No redesign or repositioning before a transaction requires it.
 - **Dataset:** no purchase; do not buy the Texas dataset without a real prospect's explicit need for sourced records.
